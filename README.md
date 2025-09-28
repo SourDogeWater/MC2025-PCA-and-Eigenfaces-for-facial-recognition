@@ -1,4 +1,4 @@
-Welcome to our project, feel free to fork it and build on top of our work :)
+Welcome to our project, still under construction :)
 
         
                                        **************  *****
